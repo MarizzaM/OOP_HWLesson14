@@ -1,0 +1,10 @@
+1.Inheritance allows us to define a class in terms of another class, which makes it easier to create and maintain an application. 
+  This also provides an opportunity to reuse the code functionality and speeds up implementation time.
+  
+2. C# allows you to create abstract classes that are used to provide partial class implementation of an interface. 
+    Implementation is completed when a derived class inherits from it. 
+    Abstract classes contain abstract methods, which are implemented by the derived class. 
+    The derived classes have more specialized functionality.
+    
+3. The word polymorphism means having many forms. 
+    In object-oriented programming paradigm, polymorphism is often expressed as 'one interface, multiple functions'.
